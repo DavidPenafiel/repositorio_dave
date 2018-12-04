@@ -1,1 +1,2 @@
-alguna cosita más
+﻿alguna cosita más
+configurado el atom
